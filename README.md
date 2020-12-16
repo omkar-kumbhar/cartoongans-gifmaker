@@ -1,10 +1,10 @@
 # Cartoon GIFs using GANs
 
 
-![Omkar Kumbhar](https://github.com/omkar-kumbhar/cartoonGAN/blob/main/gifs/omkar_71.gif)
+![Omkar Kumbhar](https://github.com/omkar-kumbhar/cartoongans-gifmaker/blob/main/gifs/omkar_71.gif)
 
 
-![Nitesh Shinde](https://github.com/omkar-kumbhar/cartoonGAN/blob/main/gifs/nitesh_71.gif)
+![Nitesh Shinde](https://github.com/omkar-kumbhar/cartoongans-gifmaker/blob/main/gifs/nitesh_71.gif)
 
 
 This project is inspired from CartoonGAN paper:
