@@ -11,10 +11,10 @@ This project is inspired from CartoonGAN paper:
 https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf
 
 # Training
-Checkout https://github.com/omkar-kumbhar/cartoonGAN/blob/main/cartoon_gans_training.ipynb
+Checkout https://github.com/omkar-kumbhar/cartoongans-gifmaker/blob/main/cartoon_gans_training.ipynb
 
 # Inference
-Checkout https://github.com/omkar-kumbhar/cartoonGAN/blob/main/cartoon_gans_inference.ipynb
+Checkout https://github.com/omkar-kumbhar/cartoongans-gifmaker/blob/main/cartoon_gans_inference.ipynb
 
 # GIF Maker
-Checkout https://github.com/omkar-kumbhar/cartoonGAN/blob/main/cartoon_gans_gifmaker.ipynb
+Checkout https://github.com/omkar-kumbhar/cartoongans-gifmaker/blob/main/cartoon_gans_gifmaker.ipynb
