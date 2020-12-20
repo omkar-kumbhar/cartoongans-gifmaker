@@ -18,3 +18,7 @@ Checkout https://github.com/omkar-kumbhar/cartoongans-gifmaker/blob/main/cartoon
 
 # GIF Maker
 Checkout https://github.com/omkar-kumbhar/cartoongans-gifmaker/blob/main/cartoon_gans_gifmaker.ipynb
+
+# Reference:
+Inspired from:
+https://github.com/znxlwm/pytorch-CartoonGAN
